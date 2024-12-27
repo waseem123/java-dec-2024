@@ -1,0 +1,96 @@
+Conditional 
+1. if statements
+2. if-else statements
+3. if- (else if) -else statements (ladder)
+4. nested conditions
+
+Choice Based
+1. switch statements
+
+if statements
+
+if(condition){
+    statement 1
+    statement 2
+    statement 3
+    ...
+    statement N
+}else{
+    statement 1
+    statement 2
+    statement 3
+    ...
+    statement N
+}
+
+if(condition){
+    statement 1
+    statement 2
+    statement 3
+    ...
+    statement N
+}else if(condition){
+    statement 1
+    statement 2
+    statement 3
+    ...
+    statement N
+}else if(condition){
+    statement 1
+    statement 2
+    statement 3
+    ...
+    statement N
+}....
+
+else{
+    statement 1
+    statement 2
+    statement 3
+    ...
+    statement N
+}
+
+if(condition){
+    if(){
+
+    }else{
+
+    }
+}else{
+    if(){
+
+    }else{
+        
+    }
+}
+
+
+Switch case syntax - 
+
+switch(choice_variable){
+    case 1:
+        stmt 1
+        stmt 2
+        ...
+        stmt N
+    break;
+    case 2:
+        stmt 1
+        stmt 2
+        ...
+        stmt N
+    break;
+    ....
+    case N:
+        stmt 1
+        stmt 2
+        ...
+        stmt N
+    break;
+    default:
+        stmt 1
+        stmt 2
+        ...
+        stmt N
+}

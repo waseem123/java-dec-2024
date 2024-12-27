@@ -1,0 +1,7 @@
+Variable Declaration Rules - 
+1. It has to be started with character.
+2. It can not have any white space or new line character.
+3. It can not have any special character except underscore(_).
+4. It can not have any keyword or system defined word.
+5. Variables are case sensitive.
+6. It is always a good practice to define meaningful variables.

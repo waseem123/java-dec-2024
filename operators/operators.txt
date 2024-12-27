@@ -1,0 +1,9 @@
+1. Arithmetic(+,-,*,/,%)
+2. Assignment(=,+=,-=,*=,/=,%=)
+3. Unary(++,--)
+4. Conditional / Relational / Comparison(<,<=,>,>=,==,!=)
+5. Logical(&&, ||, !)
+6. Bitwise(&, |)
+7. Shift(<<, >>)
+8. Ternery(?:)
+9. InstanceOf
