@@ -1,0 +1,42 @@
+Loop?
+
+Loop is a programming construct used for performing repeatative task.
+
+It is a block of code in which the possible repeatative code is written.
+
+Iteration - 
+    Iteration means the no of instances the loop is executing its code. 
+    eg. If loop executes for 10 times then we say there are 10 iterations.
+
+Theare are two categories of loops - 
+    1. Entry Controlled Loop - 
+        The loops who have the execution criteria at the begining of the loop.
+        If the condition is true then only the loop will executed. Unless and until
+        the condition is false.
+        a. While Loop
+        b. For Loop
+        c. Extended For Loop (Array)
+
+    2. Exit Controlled Loop-
+        The loops who have the execution cirteria at the end of the loop body.
+        If the condition is true then the loop will execute. This loop executes atleast
+        once even if the condition is false.
+        a. do-while Loop
+
+1. While Loop
+---
+    while(condition){
+        statement 1
+        statement 2
+        ..
+        statement N
+    }
+
+2. For loop
+---
+    for(counter_initialization; condition; counter increment / decrement){
+        statement 1
+        statement 2
+        ..
+        statement N
+    }
