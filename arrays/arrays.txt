@@ -1,0 +1,23 @@
+Array is the collection of elements of the same datatype.
+
+How to declare the array:
+
+datatype[] array_name = new datatype[size];
+
+where,
+ 1. datatype can be any primitive/or non Primitive datatype
+ 2. array_name is a name given to the array
+ 3. size is an integer value to represent the no. of elements of array
+
+example - 
+int[] myarr = new int[10];
+
+as given in above declaration
+int is the datatype
+myarr is the name of array
+10 is the no. of elements of array
+
+Array elements are accessed using its indexes
+array index always starts from zero(0)
+
+If there are N elements in the array, then index will be 0 to (N-1)
